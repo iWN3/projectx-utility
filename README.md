@@ -1,4 +1,4 @@
-## This is a utility script for the Project X robbery scripts
+## This is a utility script for the Project X Robbery and Heist scripts
 
 ## Includes
 
